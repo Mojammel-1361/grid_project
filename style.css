@@ -151,7 +151,7 @@ img{
     box-shadow: var(--shadow);
 }
 
-.footer{
+footer  {
     margin-top: 2rem;
     background: var(--dark);
     color: var(--light);
